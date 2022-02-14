@@ -122,6 +122,7 @@ class Plateau:
             raise IndexError
 
 def lose():
+    
     for w in fenetre.winfo_children():
         w.destroy()
     perdu = tk.Canvas(fenetre, bg = '#A23C4E', cursor = 'pirate', width = 500, height = 500)
