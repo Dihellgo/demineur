@@ -1,7 +1,6 @@
 """Crée un jeu de démineur"""
 
 import tkinter as tk
-from sys import exit
 from random import randint
 
 nombre_cases_ligne = 10
