@@ -1,2 +1,2 @@
-# demineur
-Démineur utilisant tkinter
+# Démineur
+Démineur python utilisant la librairie graphique tkinter
